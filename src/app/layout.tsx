@@ -1,7 +1,9 @@
 import type { Metadata } from 'next';
 import './globals.css';
 
+
 export const metadata: Metadata = {
+  metadataBase: new URL('https://asaaad07.vercel.app'),
   title: 'Asaduzzaman Asad | Software Engineering Student Portfolio',
   description: 'Personal portfolio of Asaduzzaman Asad, 4th Semester Software Engineering Student at Daffodil International University, Bangladesh. Exploring Web Development, Java, Python, C++, MySQL, and Software Architecture.',
   keywords: [
@@ -18,11 +20,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Asaduzzaman Asad | Software Engineering Student',
     description: 'Building modern web experiences and studying software engineering at Daffodil International University.',
-    url: 'https://asaduzzaman-asad.vercel.app',
+    url: 'https://asaaad07.vercel.app',
     siteName: 'Asaduzzaman Asad Portfolio',
     images: [
       {
-        url: '/asad_profile_1.jpg',
+        url: '/asad_profile_2.jpg',
         width: 1200,
         height: 630,
         alt: 'Asaduzzaman Asad Portfolio',
