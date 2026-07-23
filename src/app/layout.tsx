@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     siteName: 'Asaduzzaman Asad Portfolio',
     images: [
       {
-        url: 'https://asaaad07.vercel.app/asad_profile_2.jpg',
+        url: 'https://asaaad07.vercel.app/og-image.png',
         width: 1200,
         height: 630,
         alt: 'Asaduzzaman Asad Portfolio',
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     description:
       'Building modern web experiences and studying software engineering at Daffodil International University.',
     images: [
-      'https://asaaad07.vercel.app/asad_profile_2.jpg',
+      'https://asaaad07.vercel.app/og-image.png',
     ],
   },
 
